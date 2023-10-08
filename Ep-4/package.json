@@ -1,0 +1,35 @@
+{
+  "name": "ep-1",
+  "version": "1.0.0",
+  "description": "new complete file",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p3g-18/React.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react"
+  ],
+  "author": "pg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p3g-18/React/issues"
+  },
+  "homepage": "https://github.com/p3g-18/React#readme",
+  "dependencies": {
+    "parcel": "^2.9.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}

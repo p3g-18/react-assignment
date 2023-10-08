@@ -1,0 +1,22 @@
+--> we create a script to build a production ready app
+--> creating a script to start a project in production
+--> we created a script in package.json to run our project instead of using npx parcel index.html
+--> We wrote start script in package.json the in cmd "npm run start" (start is the name which we gave in
+script) or use "npm start" but "npm build" wont work
+--> React element is anOBJECT
+--> JSX JS X is a js syntax which is easier to create react elements
+--> JSX is not an HTML in js but instead it's a mix of html and js.
+--> JSX is like HTML or XML
+--> jsx is not proper js (if we try to run in browser's console we will get an error)
+--> jsx (transpiled before it reaches the JS engine) - parcel - BABEL
+--> JSX => babel transpiles it to React.createElement => ReactElement -JS object =>HTMLElement(render)
+--> In html we use class as our attribute but in JSX we have to use "className" jsx
+needs camel letter
+--> if we want to write a code in multiple lines in JSX "()" is mandatory
+--> React component
+--> what is functional component?? -it's a normal js function which returns small piece of JSX code & we always start with first letter capital to render we used <Title /> or <Title></Title> or {Title()}
+--> to writ multiple lines in functional component use "()".
+--> what is component composition?
+--> we can inject any js code in JSX using "{}"
+--> even if some api is injecting malicious activity jsx takes care of it
+--> we can call a functional component because it's a normal js function

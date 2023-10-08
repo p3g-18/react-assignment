@@ -1,0 +1,20 @@
+/\*\*
+
+- --> what is npm? it's a package manager,n
+- --> npm init -> package.json - it's a configuration for npm
+  --> then npm bundler(parcel)
+- --> we use bundlers to package our code into a single file
+- --> webpack,parcel,vite are the different bundlers
+- --> two type of dependencies - dev dependency and normal dependency
+- --> look about ^ & ~ in package json --> ^ minor upgrades of the version & ~ it will update to major version
+  --> gitignore to avoid keeping huge files on github like node modules
+  --> if we have package and package-lock.json we can regenrate our node modules
+  --> if we can regenerate anything then we must not put it on github
+  --> npx parcel index.html(just like npm(we are calling the npm command but npx means executing a package)) did not worked so i had to clear the parcel cache then reinstall parcel to make it work
+  --> cdn links are not preferred ways to fetch reactnpx
+  --> Normal Javascript doesn't have imports that's why why get script error to fix it we need to make our script link type as "module"
+  --> #parcel - Dev Build - Local Server - HMR - Hot Module Replacement(refreshes browser automatically) - File Watching ALgorithm - written in c++ - Caching- Faster Builds - Image Optimization - Minification of files - Bundling - compress - consistent hashing - code splitting - differential bundling - support older browser - Diagnostic - Error Handlinfg - HTTPs - Tree shaking(remove unused code)
+  --> not just react but bundlers also help us to make our app faster
+  --> Browsers list
+
+  \*\*/

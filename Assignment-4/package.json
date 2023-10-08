@@ -1,0 +1,32 @@
+{
+  "name": "assignment-4",
+  "version": "1.0.0",
+  "description": "assignment-4",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p3g-18/React.git"
+  },
+  "keywords": [
+    "assignment-4"
+  ],
+  "author": "pg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p3g-18/React/issues"
+  },
+  "homepage": "https://github.com/p3g-18/React#readme",
+  "dependencies": {
+    "parcel": "^2.9.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
