@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/p3g-18/React.git"
+    "url": "git+https://github.com/p3g-18/react-assignment.git"
   },
   "keywords": [
     "assignment-4"
@@ -18,9 +18,9 @@
   "author": "pg",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/p3g-18/React/issues"
+    "url": "https://github.com/p3g-18/react-assignment.git"
   },
-  "homepage": "https://github.com/p3g-18/React#readme",
+  "homepage": "https://github.com/p3g-18/react-assignment.git#readme",
   "dependencies": {
     "parcel": "^2.9.3",
     "react": "^18.2.0",
